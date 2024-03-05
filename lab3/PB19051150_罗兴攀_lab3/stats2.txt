@@ -1,0 +1,6 @@
+system.cpu.cpi                               4.814686                       # CPI: Cycles Per Instruction ((Cycle/Count))
+system.cpu.dcache.ReadReq.missRate::cpu.data     0.149133                       # miss rate for ReadReq accesses (Ratio)
+system.cpu.cpi                               4.867878                       # CPI: Cycles Per Instruction ((Cycle/Count))
+system.cpu.dcache.ReadReq.missRate::cpu.data     0.156592                       # miss rate for ReadReq accesses (Ratio)
+system.cpu.cpi                               4.814686                       # CPI: Cycles Per Instruction ((Cycle/Count))
+system.cpu.dcache.ReadReq.missRate::cpu.data     0.149133                       # miss rate for ReadReq accesses (Ratio)
